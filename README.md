@@ -51,3 +51,18 @@ SUBHEADLINE/PARAGRAPH:
 "CineBox" is an online movie booking app that browse the lastest movies, trailers, showtimes and cinemas around you.
 it supports local payment methods e.g Fawry.
 
+
+
+#Personas 
+
+
+
+
+
+#The Golden Path
+
+
+
+
+
+

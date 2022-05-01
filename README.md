@@ -2,7 +2,7 @@
 "CineBox" is an online movie booking app that browse the lastest movies, trailers, showtimes and cinemas around you.
 
 
-# Define user brand
+# Brand Definition
 
 TITLE: online movie booking app
 
@@ -25,7 +25,7 @@ you can check what movies is currently streaming in all cinemas and which seats 
 
 
 
-# Define strategy
+# Strategy
 
 for the filmofile who is dissatisfied that there is not an easy way to book a movie ticket without getting into crowded ticket booth or 
 search to know what is streaming in each cinema or even worse you could lose your favoratie seat place if you go late.

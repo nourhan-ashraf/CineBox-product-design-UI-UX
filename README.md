@@ -61,6 +61,7 @@ it supports local payment methods e.g Fawry.
 
 # The Golden Path
 
+![the golden path](https://user-images.githubusercontent.com/66208099/166131260-162e086c-6cac-452a-a7a7-9ee059589efa.png)
 
 
 

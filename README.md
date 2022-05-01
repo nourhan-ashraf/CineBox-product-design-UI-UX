@@ -6,13 +6,20 @@
 
 TITLE: online movie booking app
 
-PROBLEM: if you want to book a movie ticket before the release day to avoid the crowd and to pick your favorate seat before someone else take it
-so now you have to go to the cinema twice
-if you go to the cinema but all the seats or your favoraite seats are already booked or so now you have to go to another cinema or maybe the day is ruined already
+PROBLEM: 
 
-TARGET USERS: filmofiles
+If you want to book a movie ticket before the release day to avoid the crowd and to pick your favorate seat before someone else take it
+so now you have to go to the cinema twice.
 
-SOLUTION: easy-to-use app that books a movie ticket for you for any cinema you want in your country without the need for you to go to the crowded ticket booth
+If you go to the cinema but all the seats or your favoraite seats are already taken, so now you have to go to another cinema or maybe the day is ruined already.
+
+TARGET USERS: 
+
+Filmofiles
+
+SOLUTION: 
+
+Easy-to-use app that books a movie ticket for you for any cinema you want in your country without the need for you to go to the crowded ticket booth
 you can check what movies is currently streaming in all cinemas and which seats are available without needing to call each cinema or go to them 
 
 

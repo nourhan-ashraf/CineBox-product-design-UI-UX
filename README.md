@@ -55,13 +55,16 @@ it supports local payment methods e.g Fawry.
 
 # Personas 
 
+![Untitled (1)](https://user-images.githubusercontent.com/66208099/166131301-9c0e440e-8724-4f76-8dcf-5f09904f68ec.png)
 
 
+![Uploading Copy of Untitled mural.png…]()
 
 
 # The Golden Path
 
-![the golden path](https://user-images.githubusercontent.com/66208099/166131260-162e086c-6cac-452a-a7a7-9ee059589efa.png)
+![the golden path](https://user-images.githubusercontent.com/66208099/166131292-f9b6be35-182d-4e30-a6db-9c97c05ab772.png)
+
 
 
 
